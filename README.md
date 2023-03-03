@@ -21,5 +21,5 @@ Página inicial e estática de uma loja fictícia de artigos esportivos, com sit
   <img src="logo-readme.png" /> 
 </p>
 <p align="center">
-[Escola de Programação OneBitCode](https://cursos.onebitcode.com/)
+<a href="https://cursos.onebitcode.com/">Escola de Programação OneBitCode</a>
 </p>
