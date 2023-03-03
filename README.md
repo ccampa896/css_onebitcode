@@ -17,5 +17,9 @@ Página desenvolvida com HTML e CSS Responsivo (flexbox e grid) como exercício 
 Página inicial e estática de uma loja fictícia de artigos esportivos, com site responsivo para quaquer tamanho de dispositivo.
 </p>
 
-<p align="center">![logo-onebitcode](logo-readme.png)</p>
-<p align="center">[Escola de Programação OneBitCode](https://cursos.onebitcode.com/)</p>
+<p align="center">
+  <img src="logo-readme.png" /> 
+</p>
+<p align="center">
+[Escola de Programação OneBitCode](https://cursos.onebitcode.com/)
+</p>
